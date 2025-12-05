@@ -1,7 +1,6 @@
-package p3;
+package h3;
 
 public class Mensch {
-	
 	public String name = "Peter";
 	public int gebJahr = 2005;
 	public int alter = 100;
@@ -24,4 +23,5 @@ public class Mensch {
 	public int GetAlter() {
 		return alter;
 	}
+
 }
